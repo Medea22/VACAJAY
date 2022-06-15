@@ -1,0 +1,242 @@
+Country,Rank,Distance
+Canada,1,202080
+Norway,2,"83,281"
+Indonesia,3,54716
+Greenland,,44087
+Russia,4,"37,653"
+Philippines,5,36289
+Japan,6,29751
+Australia,7,25760
+United States,8,19924
+Antarctica,—,17968
+New Zealand,9,15134
+China,10,14500
+Greece,11,13676
+United Kingdom,12,12429
+Mexico,13,9330
+Italy,14,7600
+Brazil,15,7491
+Denmark,16,7314
+Turkey,17,7200
+India,18,7000
+Chile,19,6435
+Micronesia,20,6112
+Croatia,21,"5,835"
+Solomon Islands,22,5313
+Papua New Guinea,23,5152
+Argentina,24,4989
+Iceland,25,4970
+Spain,26,4964
+France,27,4853
+Madagascar,28,4828
+Malaysia,29,4675
+Estonia,30,3794
+Cuba,31,3735
+Svalbard and Jan Mayen,—,3587
+Bahamas,32,3542
+Vietnam,33,"3,444"
+Somalia,34,3333
+Thailand,35,3219
+Sweden,36,3218
+Colombia,37,3208
+French Southern and Antarctic Lands,—,"2,948.4"
+Morocco,38,2945
+Venezuela,39,2800
+South Africa,40,2798
+Ukraine,41,2782
+Saudi Arabia,42,2640
+Vanuatu,43,2528
+French Polynesia,—,2525
+North Korea,44,2495
+Panama,45,2490
+Mozambique,46,2470
+Egypt,47,2450
+Iran,48,"2,44"
+Peru,49,2414
+South Korea,50,2413
+Germany,51,2389
+New Caledonia,—,2254
+Ecuador,52,2237
+Eritrea,53,"2,234"
+Oman,54,2092
+Myanmar,55,1930
+Yemen,56,1906
+Portugal,57,1793
+Haiti,58,1771
+Libya,59,1770
+Angola,60,1600
+Namibia,61,1572
+China,62,1566.3
+Palau,63,1519
+Northern Mariana Islands,—,1482
+Ireland,64,1448
+Tanzania,65,1424
+Sri Lanka,66,1340
+United Arab Emirates,67,1318
+Costa Rica,68,1290
+Dominican Republic,69,1288
+Falkland Islands,—,1288
+Finland,70,1250
+Tunisia,71,1148
+Kiribati,72,1143
+Fiji,73,1129
+Faroe Islands,—,1117
+Pakistan,74,1046
+Jamaica,75,1022
+Algeria,76,998
+Cape Verde,77,965
+Nicaragua,78,910
+Gabon,79,885
+Nigeria,80,853
+Sudan,80,853
+Honduras,82,832
+Mauritania,83,754
+Hong Kong,—,733
+Timor-Leste,84,706
+British Indian Ocean Territory,—,698
+Uruguay,85,660
+Cyprus,86,648
+Maldives,87,644
+Bangladesh,88,580
+Liberia,89,579
+Qatar,90,563
+Ghana,91,539
+Kenya,92,536
+Senegal,93,531
+Puerto Rico,—,501
+Kuwait,95,499
+Latvia,96,498
+Seychelles,97,491
+Guyana,98,459
+Netherlands,99,451
+Cambodia,100,443
+Poland,101,440
+Tonga,102,419
+Samoa,103,403
+Cameroon,104,402
+Sierra Leone,104,402
+Guatemala,106,400
+Turks and Caicos Islands,—,389
+Belize,107,386
+Suriname,107,386
+Marshall Islands,109,370.4
+Curacao,—,364
+Albania,110,362
+Trinidad and Tobago,110,362
+Bulgaria,112,354
+Guinea-Bissau,113,350
+Comoros,114,340
+Guinea,115,320
+Djibouti,116,314
+Georgia,117,310
+El Salvador,118,307
+Equatorial Guinea,119,296
+Montenegro,120,293.5
+Israel,121,273
+Malta,122,252.8
+Lebanon,123,225
+Romania,123,225
+São Tomé and Príncipe,125,209
+Singapore,126,193
+Syria,126,193
+United States Virgin Islands,—,188
+Mauritius,128,177
+DR Congo,129,169
+Bahrain,130,161
+Brunei,130,161
+Cayman Islands,—,160
+Isle of Man,—,160
+Saint Lucia,132,158
+Antigua and Barbuda,133,153
+Dominica,134,148
+Christmas Island,—,138.9
+Saint Kitts and Nevis,135,135
+Wallis and Futuna,—,129
+Guam,—,125.5
+Svalbard and Jan Mayen,—,124.1
+Benin,136,121
+Grenada,136,121
+Cook Islands,138,120
+Saint Pierre and Miquelon,—,120
+American Samoa,—,116
+Bermuda,—,103
+Heard Island and McDonald Islands,—,101.9
+Tokelau,—,101
+Barbados,139,97
+"Saint Helena, Ascension and Tristan da Cunha",—,94
+Lithuania,140,90
+Saint Vincent and the Grenadines,141,84
+British Virgin Islands,—,80
+Gambia,142,80
+Jersey,—,70
+Aruba,—,68.5
+Belgium,143,66.5
+Niue,144,64
+Anguilla,—,61
+Saint Martin,—,58.9
+Iraq,145,58
+Togo,146,56
+Pitcairn Islands,—,51
+Guernsey,—,50
+Slovenia,147,46.6
+Macau,—,41
+Palestine,148,40
+Montserrat,—,40
+Republic of the Congo,149,37
+Norfolk Island,—,32
+Nauru,150,30
+Bouvet Island,—,29.6
+Cocos (Keeling) Islands,—,26
+Jordan,151,26
+Tuvalu,152,24
+Bosnia and Herzegovina,153,20
+Gibraltar,—,12
+Monaco,154,4.1
+Saint Barthélemy,—,
+Sint Maarten,—,
+Georgia,—,
+Kazakhstan,155,
+Turkmenistan,155,
+Azerbaijan,155,
+Palestine,155,0
+Afghanistan,155,0
+Andorra,155,0
+Armenia,155,0
+Austria,155,0
+Belarus,155,0
+Bhutan,155,0
+Bolivia,155,0
+Botswana,155,0
+Burkina Faso,155,0
+Burundi,155,0
+Central African Republic,155,0
+Chad,155,0
+Czech Republic,155,0
+Ethiopia,155,0
+Hungary,155,0
+Kosovo,155,0
+Kyrgyzstan,155,0
+Laos,155,0
+Lesotho,155,0
+Liechtenstein,155,0
+Luxembourg,155,0
+Malawi,155,0
+Mali,155,0
+Moldova,155,0
+Mongolia,155,0
+Nepal,155,0
+Niger,155,0
+North Macedonia,155,0
+Paraguay,155,0
+Rwanda,155,0
+San Marino,155,0
+Serbia,155,0
+Slovakia,155,0
+South Sudan,155,0
+Switzerland,155,0
+Tajikistan,155,0
+Uganda,155,0
+Uzbekistan,155,
+Vatican City,155,0
+Zambia,155,0
+Zimbabwe,155,0
